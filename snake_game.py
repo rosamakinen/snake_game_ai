@@ -75,17 +75,6 @@ while True:
             if event.key == pygame.K_RIGHT:
                 direction = 'RIGHT'
  
-    # preventing going up and pressing down
-    # snake crashes onto itself
-#    if change_to == 'UP' and direction != 'DOWN':
-#      direction = 'UP'
-#    if change_to == 'DOWN' and direction != 'UP':
-#        direction = 'DOWN'
-#    if change_to == 'LEFT' and direction != 'RIGHT':
-#        direction = 'LEFT'
-#    if change_to == 'RIGHT' and direction != 'LEFT':
-#        direction = 'RIGHT'
- 
     # moving the snake
     if direction == 'UP':
         snake_position[1] -= 10

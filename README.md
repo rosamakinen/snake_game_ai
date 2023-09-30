@@ -5,6 +5,7 @@ As part of Women in AI mentorship -program and with the support of my mentor Den
 In this project I explore reinforcement learning and Python by training a model to play the classic snake game.
 
 You can run the training model code by executing ai_agent.py
+
 To play the game manually you can run snake_game.py
 
 The agent was able to reach a high score of 64 after 90 training games.

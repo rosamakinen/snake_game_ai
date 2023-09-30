@@ -1,12 +1,13 @@
 # snake_game_ai
-Training a neural network with deep Q learning to play the snake game
+**Training a neural network with deep Q learning to play the snake game**
 
-As part of Women in AI mentorship -program and with the support of my mentor Denis Vorotyntsev, I wanted to better understand AI, and the concept of machine learning.
+As part of **Women in AI mentorship -program** and with the support of my mentor Denis Vorotyntsev, I wanted to better understand AI, and the concept of machine learning.
+
 In this project I explore reinforcement learning and Python by training a model to play the classic snake game.
 
-You can run the training model code by executing ai_agent.py
+🚀 You can run the training model code by executing **ai_agent.py**
 
-To play the game manually you can run snake_game.py
+🚀 To play the game manually you can run **snake_game.py**
 
 The agent was able to reach a high score of 64 after 90 training games.
 

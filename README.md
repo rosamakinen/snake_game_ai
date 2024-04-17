@@ -3,7 +3,7 @@
 
 As part of **Women in AI mentorship -program** and with the support of my mentor Denis Vorotyntsev, I wanted to better understand AI, and the concept of machine learning.
 
-In this project I explore reinforcement learning and Python by training a model to play the classic snake game.
+In this project I explore reinforcement learning and Python by training a model to play the classic snake game. Training an AI agent to play Snake -game implementing Reinforcement Learning, coded in Python with PyGames and PyTorch. It uses feed forward neural network with input layer of 11 neurons, a hidden layer and output layer of 3 neurons.
 
 🚀 You can run the training model code by executing **ai_agent.py**
 
